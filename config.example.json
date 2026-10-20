@@ -1,0 +1,15 @@
+{
+  "camera_indices": [0, 1],
+  "recognition_threshold": 65.0,
+  "duplicate_interval_seconds": 60,
+  "enrollment_samples": 20,
+  "detection_interval_frames": 3,
+  "stable_recognition_cycles": 3,
+  "min_face_size": 100,
+  "min_face_brightness": 40.0,
+  "max_face_brightness": 215.0,
+  "min_face_sharpness": 80.0,
+  "duplicate_face_threshold": 45.0,
+  "device_name": "本机考勤终端",
+  "backup_retention_days": 7
+}
